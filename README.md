@@ -39,11 +39,10 @@ The repository is structured as follows:
 
 ```
 .
-├── nsapallschemes.csv          # The dataset used for training the model.
-├── NSAP Scheme Classification ML App.mp4  # A video demonstrating the application's functionality.
-├── model.py                      # Python script for the machine learning model pipeline.
-├── app.py                        # Python script for the Streamlit web application.
-└── README.md                     # This file.
+├── nsapallschemes.csv           
+├── Predicting_Eligibility_for_Social_Welfare_Schemes_using_Machine _Learning.ipynb
+├── LICENSE
+└── README.md                     
 ```
 
 ## 📋 Getting Started
