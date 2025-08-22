@@ -15,6 +15,12 @@ A machine learning pipeline was designed and implemented to address the problem,
 3.  **Model Evaluation**: The models were evaluated using key metrics such as Accuracy, Precision, Recall, and F1-Score, along with a Confusion Matrix, to ensure the model's reliability and performance.
 4.  **Deployment**: The best-performing model was deployed to a web-based application using **Streamlit** for a user-friendly interface. This allows government agencies to input applicant details and receive an instant prediction of the most suitable scheme.
 
+## 🎥 Demo
+
+A short video demonstrating the application's functionality is included in the repository.
+
+  * `https://drive.google.com/file/d/1Zh0Cu-DSTvvM2B_0QsYCpjcwJlvzBIVX/view?usp=drive_link`
+
 ## Demo as picture:
 [![Alt text](nsap_scheme.jpg)]
 
@@ -81,12 +87,6 @@ The performance of the models was thoroughly evaluated. The `Random Forest` mode
   * **CV Accuracy**: 0.9694
 
 A detailed classification report and confusion matrix are available in the project files to provide a deeper insight into the model's performance on a per-class basis.
-
-## 🎥 Demo
-
-A short video demonstrating the application's functionality is included in the repository.
-
-  * `https://drive.google.com/file/d/1Zh0Cu-DSTvvM2B_0QsYCpjcwJlvzBIVX/view?usp=drive_link`
 
 ## 🤝 Contribution
 
