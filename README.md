@@ -16,7 +16,7 @@ A machine learning pipeline was designed and implemented to address the problem,
 4.  **Deployment**: The best-performing model was deployed to a web-based application using **Streamlit** for a user-friendly interface. This allows government agencies to input applicant details and receive an instant prediction of the most suitable scheme.
 
 ## Demo as picture:
-[![Alt text](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
+[![Alt text](nsap_scheme.jpg)]
 
 ## ⚙️ Technology Stack
 
