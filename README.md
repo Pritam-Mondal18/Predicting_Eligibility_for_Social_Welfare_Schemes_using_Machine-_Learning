@@ -83,7 +83,7 @@ A detailed classification report and confusion matrix are available in the proje
 
 A short video demonstrating the application's functionality is included in the repository.
 
-  * `[NSAP Scheme Classification ML App.mp4](https://drive.google.com/file/d/1Zh0Cu-DSTvvM2B_0QsYCpjcwJlvzBIVX/view?usp=drive_link)`
+  * `https://drive.google.com/file/d/1Zh0Cu-DSTvvM2B_0QsYCpjcwJlvzBIVX/view?usp=drive_link`
 
 ## 🤝 Contribution
 
